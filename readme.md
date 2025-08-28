@@ -4,7 +4,7 @@
 
 **IoT-EnergyPredictor** is a smart energy management system that simulates IoT devices for real-time monitoring, anomaly detection, and climate-informed optimization in residential buildings. Built with Python, Streamlit, MQTT, and a machine learning backend, it helps reduce energy consumption and offers actionable insights via a user-friendly dashboard.
 
-![Dashboard Screenshot](images/streamlit_dashboard.png)
+[Dashboard Screenshot](images/streamlit_dashboard.png)
 *Figure 4.3: Streamlit dashboard displaying real-time energy usage, anomaly alerts, and control options.*
 
 ---
